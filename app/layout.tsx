@@ -1,0 +1,1 @@
+export const metadata={title:'ATR/BPN Dashboard'}; export default function RootLayout({children}:{children:React.ReactNode}){return <html><body>{children}</body></html>}
